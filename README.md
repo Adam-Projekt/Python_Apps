@@ -1,8 +1,7 @@
-# Python_Apps
-Setup:
-
-Cmd For Translator.py
-
-        Pip Install Deep_Translator
-        
-        python Translator.py
+# About 
+This project is pack of small python codes
+### Just For Fun
+I made this For fun but if you want to use it commercial you can
+# Status
+I am Currently working on Minesweeper program
+its MIB licence 
