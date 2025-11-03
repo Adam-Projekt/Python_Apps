@@ -7,8 +7,8 @@ from deep_translator import GoogleTranslator
 jazyky = [
     "cs", "en", "fr", "de", "es", "it", "pt", "nl", "pl", "sv",
     "fi", "no", "da", "is", "tr", "el", "ru", "uk", "bg", "ro",
-    "hu", "sk", "sl", "hr", "sr", "ar", "he", "fa", "hi", "bn",
-    "ta", "th", "id", "ms", "vi", "zh-cn", "zh-tw", "ja", "ko",
+    "hu", "sk", "sl", "hr", "sr", "ar", "fa", "fa", "hi", "bn",
+    "ta", "th", "id", "ms", "vi", "ja", "ko",
     "am", "sw", "af", "et", "lt", "lv", "ga", "mt", "sq", "mk",
     "cs"  
 ]
