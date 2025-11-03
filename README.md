@@ -1,5 +1,8 @@
 # Python_Apps
-Setup: 
-run traslator.py 
-    pip install deep_translator
-    Terminal python traslator.py
+Setup:
+
+Cmd For Translator.py
+
+        Pip Install Deep_Translator
+        
+        python Translator.py
