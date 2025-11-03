@@ -22,10 +22,10 @@ all of files
   ```cmd
   Pip Install install.txt 
 > install.txt is in repo
-- Do file Specify action
- like change variables etc
--run file by Python Filename.py
+- Do file Specify action like change variables etc
+- run file by Python Filename.py
  
+
 
 
 
