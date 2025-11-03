@@ -16,6 +16,8 @@ This project is in python
 Here is step by step guide to Setup for
 all of files
 - <a href="https://code.visualstudio.com/download" target="_blank">If not alredy download then download VS code</a>
+- <a -href="https://www.python.org/downloads/" target="_blank">Download python</a>
+
 
 
 
