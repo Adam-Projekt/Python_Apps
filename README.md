@@ -24,8 +24,9 @@ all of files
 > install.txt is in repo
 - Do file Specify action
  like change variables etc
--run file
+-run file by Python Filename.py
  
+
 
 
 
