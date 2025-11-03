@@ -15,6 +15,7 @@ its MIB License
 This project is in python 
 Here is step by step guide to Setup for
 all of files
-- [Download Python (https://www.python.org/downloads/)
+- <a href="https://code.visualstudio.com/download" target="_blank">If not alredy download then download VS code</a>
+
 
 
