@@ -24,10 +24,11 @@ all of files
 > install.txt is in repo
 - Do file Specify action like change variables etc
 - run file by Python Filename.py
-##translator
+## translator
 Brator/Bad Translator is program that takes text and translate it to lot of languaes and then Back to First making somethink crazy in process 
 
  
+
 
 
 
