@@ -20,7 +20,7 @@ all of files
   href="https://www.python.org/downloads/" target="_blank">Download python</a>
 - Download All libaries by
   ```cmd
-  Pip Install install.txt 
+  Pip Install -r install.txt 
 > install.txt is in repo
 - Do file Specify action like change variables etc
 - run file by Python Filename.py
@@ -28,6 +28,7 @@ all of files
 Brator/Bad Translator is program that takes text and translate it to lot of languaes and then Back to First making somethink crazy in process 
 
  
+
 
 
 
