@@ -1,11 +1,8 @@
-#Setup in terminal
-#pip install deep_translator
-#Terminal python traslator.py
 from deep_translator import GoogleTranslator
 
 
 jazyky = [
-    "cs", "en", "fr", "de", "es", "it", "pt", "nl", "pl", "sv",
+    "auto", "en", "fr", "de", "es", "it", "pt", "nl", "pl", "sv",
     "fi", "no", "da", "is", "tr", "el", "ru", "uk", "bg", "ro",
     "hu", "sk", "sl", "hr", "sr", "ar", "fa", "fa", "hi", "bn",
     "ta", "th", "id", "ms", "vi", "ja", "ko",
@@ -29,8 +26,8 @@ for i in range(len(jazyky) - 1):
     text = prelozeno
 
 print("====================================")
-print("Výsledek po cestě světem:")
+print("Result:")
 print(text)
 print("====================================")
 
-input("\nStiskni Enter pro konec...")
+input("Press Enter")
